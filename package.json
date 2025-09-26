@@ -1,0 +1,16 @@
+{
+  "name": "testapi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "runner": "cypress open"
+  },
+  "keywords": [],
+  "author": "Fabian Restrepo",
+  "license": "ISC",
+  "description": "Prueba a la aplicacion de ecommerce web",
+  "devDependencies": {
+    "cypress": "^15.3.0"
+  }
+}
+
